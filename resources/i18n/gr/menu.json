@@ -7,14 +7,15 @@
         "downloading_smm": "Λήψη SimpleModManager",
         "downloading_smd": "Λήψη SimpleModDownloader",
         "downloading": "Λήψη",
-        "extracting": "Εξαγωγή (μην κλείσετε την εφαρμογή)"
+        "extracting": "Εξαγωγή σε εξέλιξη (μην κλείσετε την εφαρμογή)"
     },
     
     "tabs": {
         "downloads": "Λήψεις",
         "install": "Εγκατάσταση",
         "update": "Ενημέρωση Εφαρμογής",
-        "about": "Σχετικά"
+        "about": "Σχετικά",
+        "settings": "Ρυθμίσεις"
     },
     
     "notify": {
@@ -32,7 +33,7 @@
     
     "about": {
         "title": "Πληροφορίες για το SimpleModDownloader",
-        "description": "Το SimpleModDownloader είναι μια εφαρμογή που σας επιτρέπει να κάνετε λήψη και εγκατάσταση mods για παιχνίδια του Nintendo Switch και έχει δημιουργηθεί από τον PoloNX.",
+        "description": "Το SimpleModDownloader είναι μια εφαρμογή που σας επιτρέπει να κάνετε λήψη και εγκατάσταση mods για τα παιχνίδια του Nintendo Switch και έχει δημιουργηθεί από τον PoloNX.",
         "thanks": "\u25c6 Ευχαριστώ τον @nadrino για το SimpleModManager\n\u25c6 Ευχαριστώ τον Natinusala και τον HamletDuFromage για το borealis\n\u25c6 Ευχαριστώ τον Pikatsuto για το λογότυπο και τον SuperButterScotch για την τυπογραφία\n\u25c6 Ευχαριστώ τη NicholeMattera για το Simple-INI-Parser"
     },
     
@@ -46,15 +47,15 @@
         "available_version" : "\u25c6 Διαθέσιμη έκδοση :",
         "restart_smd": "Επανεκκινήστε το SimpleModDownloader για να εφαρμόσετε την ενημέρωση.",
         "no_internet": "Δεν υπάρχει σύνδεση στο διαδίκτυο.",
-        "desc_smd": "\u25c6 Μπορείτε να ενημερώσετε την εφαρμογή που χρησιμοποιείτε στο switch σας",
+        "desc_smd": "\u25c6 Μπορείτε να ενημερώσετε την εφαρμογή που χρησιμοποιείτε από στο switch σας",
         "path": "Διαδρομή",
         "url": "Url"
     },
     
     "item": {
         "launch_smm": "Εκκίνηση του SimpleModManager",
-        "download_smm": "Λήψη SimpleModManager",
-        "download_smd": "Λήψη SimpleModDownloader"
+        "download_smm": "Λήψη του SimpleModManager",
+        "download_smd": "Λήψη του SimpleModDownloader"
     },
     
     "mods": {
@@ -62,11 +63,16 @@
         "search": "Αναζήτηση",
         "search_placeholder": "Εισαγάγετε το όνομα του mod (τουλάχιστον 3 χαρακτήρες)",
         "cancel": "Ακύρωση",
-        "links": "Σύνδεσμος λήψης",
+        "links": "Σύνδεσμος Λήψης",
         "size": "Μέγεθος",
         "date": "Ημερομηνία",
-        "images": "Προβολή εικόνων",
-        "browser": "Άνοιγμα σε πρόγραμμα περιήγησης",
+        "images": "Προβολή Εικόνων",
+        "browser": "Άνοιγμα σε Πρόγραμμα Περιήγησης",
         "author": "Δημιουργός"
+        "page": "Σελίδα"
+    },
+
+    "settings_tab" : {
+        "language" : "Επιλογή γλώσσας"
     }
 }
