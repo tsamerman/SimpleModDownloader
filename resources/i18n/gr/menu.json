@@ -4,8 +4,8 @@
     },
 
     "title": {
-        "downloading_smm": "Λήψη SimpleModManager",
-        "downloading_smd": "Λήψη SimpleModDownloader",
+        "downloading_smm": "Λήψη του SimpleModManager",
+        "downloading_smd": "Λήψη του SimpleModDownloader",
         "downloading": "Λήψη",
         "extracting": "Εξαγωγή σε εξέλιξη (μην κλείσετε την εφαρμογή)"
     },
